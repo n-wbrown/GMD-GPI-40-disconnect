@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{3a89c4a2-4515-4351-a80c-97d567ef19a3}</ProjectGuid>
+    <AssemblyName>GMD-GPI-40-disconnect</AssemblyName>
+    <Name>GMD-GPI-40-disconnect</Name>
+    <RootNamespace>GMD-GPI-40-disconnect</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="YT Scope Project.tcscopex">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+</Project>
